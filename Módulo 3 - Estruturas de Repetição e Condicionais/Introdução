@@ -1,0 +1,10 @@
+## O que são Controles de Fluxo?
+
+
+Nesta aula, você irá aprender algumas das principais estruturas lógicas e condicionais, que irão agregar muitas funcionalidades para o seu código.
+
+Obviamente, as estruturas existentes são bem mais extensas que as apresentadas aqui. 
+Porém, aqui você terá uma visão geral daquelas que fazem mais sentido neste momento, com foco sempre no curso Data Science na Prática.
+
+É importante ressaltar que a identação é muito importante aqui, pois podemos encontrar erros simplesmente por não ter feito a identação corretamente. 
+Portanto, muita atenção ao criar essas estruturas.
